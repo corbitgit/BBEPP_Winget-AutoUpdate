@@ -49,6 +49,7 @@ GitHub.GitHubDesktop*
 Google.Chrome*
 Google.GoogleDrive*
 Greenshot.Greenshot*
+GlavSoft.TightVNC*
 Jabra.Direct*
 JGraph.Draw*
 JetBrains.Rider*
